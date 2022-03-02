@@ -21,7 +21,9 @@ def pick_up():
 
 def calc_cost():
     number = int(input("The number of hours: "))
-    charge = number * 12
+    child = len(child_care_list)
+    RATE = 12
+    charge = number * RATE * child
     print(f"The charge for {number} hours is ${charge}")
 
 
