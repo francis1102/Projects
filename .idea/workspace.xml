@@ -25,14 +25,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../1Test repository/03_Students_grades.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ferna\OneDrive - Middleton Grange School\12DTC\2.7 &amp; 2.8 Program and Development\Projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Silent_Auction">
+  <component name="RunManager" selected="Python.Speeding_Motorists_And_Warrant">
     <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,9 +140,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Speeding_Motorists_And_Warrant" />
         <item itemvalue="Python.Silent_Auction" />
         <item itemvalue="Python.Taxi_Trips" />
-        <item itemvalue="Python.Speeding_Motorists_And_Warrant" />
         <item itemvalue="Python.MGS_Childcare" />
         <item itemvalue="Python.11" />
       </list>
